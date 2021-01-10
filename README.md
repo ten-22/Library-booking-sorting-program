@@ -6,5 +6,5 @@
 # Task 2 
  - Included 2 extra classes one for the books and another for the user objects.
  - Each classes uses the CompareTo method to allow for comparision for object identification.
- -
+ - Person class to show which person has order which book and which books are over due utilising the CompareTo method.
  
